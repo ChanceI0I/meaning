@@ -1,0 +1,33 @@
+html {
+    background-color: #97CCFF;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    margin-top: 0px;
+    text-align: center;
+    background-color: #FFCC99;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#text {
+    font-size: 45px;
+    text-align: center;
+}
+
+#name_input {
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+#btn {
+    margin-left: 40px;
+    background: #F3D6C1;
+}
